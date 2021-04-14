@@ -29,7 +29,9 @@ To manually run through the code locally, follow below instructions.
 	
 	```	
 		git clone https://github.com/Gaurav053/Udacity-Dog-Breed-Classifier.git
-		cd deep-learning-v2-pytorch/project-dog-classification
+					or
+		Download and extract the zip.
+		
 	```
    
 2. Download the [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip).  Unzip the folder and place it in the repo, at location `path/to/dog-project/dogImages`.  The `dogImages/` folder should contain 133 folders, each corresponding to a different dog breed.
